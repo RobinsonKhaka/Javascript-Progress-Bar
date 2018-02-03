@@ -1,0 +1,11 @@
+}
+#progressContainer{
+  width: 100%;
+  background-color: #B6B4B4;
+  margin: 10px 60px;
+}
+#progress {
+  width: 1%;
+  height: 30px;
+  background-color: #337ab7;
+}
